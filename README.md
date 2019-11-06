@@ -5,6 +5,16 @@
 <h3 align="center">
   Desafio 3: Gympoint, continuando a aplicação <h1 align="center"> Concluído </h1>
 </h3>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/gobarber-api.svg">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/gobarber-api.svg">
+  
+  <a href="https://www.codacy.com/app/lukemorales/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/gobarber-api&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
+  </a>
+
+
 
 
 
@@ -114,3 +124,8 @@ Crie uma rota para a academia responder um pedido de auxílio:
 Exemplo de requisição: `POST https://gympoint.com/help-orders/1/answer`
 
 Quando um pedido de auxílio for respondido, o aluno deve receber um e-mail da plataforma com a pergunta e resposta da academia;
+
+
+---
+
+<h5> Obrigado por chegar até aqui! <3 </h5>
